@@ -1,5 +1,5 @@
 import { netsuiteRequest } from "./oauth.js";
-import data from "./unidades_conversion.json" assert { type: "json" };
+import data from "./unidades_parte2.json" assert { type: "json" };
 import "dotenv/config";
 
 async function enviarMasivo() {
@@ -41,28 +41,36 @@ async function enviarMasivo() {
         }
     }
     // console.log("Unidades agrupadas por tipo:", Object.keys(obj).length);
-    // console.log("el primer valor oño", obj["UM_1002580"])
+    // console.log("el primer valor", obj["UM_1002580"])
     // console.log("el primer valor", obj["UM_1002580"].uom)
-    // delete obj["UM_1015423"]
+    // delete obj["UM_1002580"]
 
     // console.log("Unidades agrupadas por tipo después de eliminar UM_1015423:", Object.keys(obj));
     // console.log("esto es lo que se viene ", obj["UM_1015423"])
     // console.log("OBJ:", obj);
+    // let  valores = Object.values(obj);
     let  valores = Object.values(obj);
 
-    // for (let i = 0; i < valores.length; i++) {
-    //     const unidad = valores[i];
-
-    //     console.log("Enviando unidad", i + 1);
-    //     console.log("Enviando unidad", unidad);
-
-    //     try {
-    //         const r = await netsuiteRequest(valores[i]);
-    //         console.log("OK:", r.id);
-    //     } catch (e) {
-    //         console.log("Error en registro", i + 1, e);
-    //     }
+    // try {
+    //     const r = await netsuiteRequest(obj["UM_1013073"]);
+    //     console.log("OK:", r.id);
+    // } catch (error) {
+    //     console.error("Error:", error.message);
     // }
+
+    for (let i = 0; i < valores.length; i++) {
+        const unidad = valores[i];
+
+        console.log("Enviando unidad", i + 1);
+        console.log("Enviando unidad", unidad);
+
+        try {
+            const r = await netsuiteRequest(valores[i]);
+            console.log("OK:", r.id);
+        } catch (e) {
+            console.log("Error en registro", i + 1, e);
+        }
+    }
 
     console.log("Proceso terminado", valores.length, "unidades enviadas.");
 }

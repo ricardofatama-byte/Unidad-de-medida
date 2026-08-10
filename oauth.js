@@ -35,7 +35,7 @@ function generateOAuthSignature(method, url, params, consumerSecret, tokenSecret
 
 export async function netsuiteRequest(body) {
     const method = "POST";
-    const url = "https://11541296.suitetalk.api.netsuite.com/services/rest/record/v1/unitsType";
+    const url = "https://11541254.suitetalk.api.netsuite.com/services/rest/record/v1/unitsType";
 
     const oauth_timestamp = Math.floor(Date.now() / 1000).toString();
     const oauth_nonce = crypto.randomBytes(16).toString("hex");

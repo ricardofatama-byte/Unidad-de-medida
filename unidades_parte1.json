@@ -36660,16 +36660,6 @@
     "unitBase": "F"
   },
   {
-    "nameType": "UM_1003947",
-    "externalid": "UM_1003947_LT",
-    "name": "Litro",
-    "pluralName": "Litros",
-    "abv": "LT",
-    "pluralAbv": "LTS",
-    "tasa": "2025-05-12 00:00:00",
-    "unitBase": "F"
-  },
-  {
     "nameType": "UM_1003972",
     "externalid": "UM_1003972_LT",
     "name": "Litro",
@@ -36732,16 +36722,6 @@
   {
     "nameType": "UM_1011318",
     "externalid": "UM_1011318_LT",
-    "name": "Litro",
-    "pluralName": "Litros",
-    "abv": "LT",
-    "pluralAbv": "LTS",
-    "tasa": "2025-05-12 00:00:00",
-    "unitBase": "F"
-  },
-  {
-    "nameType": "UM_1011328",
-    "externalid": "UM_1011328_LT",
     "name": "Litro",
     "pluralName": "Litros",
     "abv": "LT",
@@ -36842,16 +36822,6 @@
   {
     "nameType": "UM_1013072",
     "externalid": "UM_1013072_LT",
-    "name": "Litro",
-    "pluralName": "Litros",
-    "abv": "LT",
-    "pluralAbv": "LTS",
-    "tasa": "2025-05-12 00:00:00",
-    "unitBase": "F"
-  },
-  {
-    "nameType": "UM_1013073",
-    "externalid": "UM_1013073_LT",
     "name": "Litro",
     "pluralName": "Litros",
     "abv": "LT",
