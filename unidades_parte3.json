@@ -1,0 +1,6222 @@
+[
+  {
+    "nameType": "UM_1001104",
+    "externalid": "UM_1001104_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1001104",
+    "externalid": "UM_1001104_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1001104",
+    "externalid": "UM_1001104_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1001104",
+    "externalid": "UM_1001104_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "768",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1001782",
+    "externalid": "UM_1001782_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1001782",
+    "externalid": "UM_1001782_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1001782",
+    "externalid": "UM_1001782_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1001782",
+    "externalid": "UM_1001782_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "900",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1002301",
+    "externalid": "UM_1002301_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1002301",
+    "externalid": "UM_1002301_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11520",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1002301",
+    "externalid": "UM_1002301_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1002301",
+    "externalid": "UM_1002301_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003274",
+    "externalid": "UM_1003274_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1003274",
+    "externalid": "UM_1003274_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12096",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003274",
+    "externalid": "UM_1003274_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003274",
+    "externalid": "UM_1003274_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "216",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003466",
+    "externalid": "UM_1003466_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1003466",
+    "externalid": "UM_1003466_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "14400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003466",
+    "externalid": "UM_1003466_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1003466",
+    "externalid": "UM_1003466_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004158",
+    "externalid": "UM_1004158_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1004158",
+    "externalid": "UM_1004158_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004158",
+    "externalid": "UM_1004158_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "30",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004158",
+    "externalid": "UM_1004158_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4590",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004542",
+    "externalid": "UM_1004542_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004542",
+    "externalid": "UM_1004542_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1004542",
+    "externalid": "UM_1004542_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "416",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1004542",
+    "externalid": "UM_1004542_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1007463",
+    "externalid": "UM_1007463_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1007463",
+    "externalid": "UM_1007463_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "21600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1007463",
+    "externalid": "UM_1007463_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "25",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1007463",
+    "externalid": "UM_1007463_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "300",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011318",
+    "externalid": "UM_1011318_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011318",
+    "externalid": "UM_1011318_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1011318",
+    "externalid": "UM_1011318_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011318",
+    "externalid": "UM_1011318_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4576",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011828",
+    "externalid": "UM_1011828_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1011828",
+    "externalid": "UM_1011828_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011828",
+    "externalid": "UM_1011828_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1011828",
+    "externalid": "UM_1011828_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1012882",
+    "externalid": "UM_1012882_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1012882",
+    "externalid": "UM_1012882_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1012882",
+    "externalid": "UM_1012882_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1012882",
+    "externalid": "UM_1012882_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2560",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013012",
+    "externalid": "UM_1013012_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1013012",
+    "externalid": "UM_1013012_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013012",
+    "externalid": "UM_1013012_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013012",
+    "externalid": "UM_1013012_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1248",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013072",
+    "externalid": "UM_1013072_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013072",
+    "externalid": "UM_1013072_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1013072",
+    "externalid": "UM_1013072_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013072",
+    "externalid": "UM_1013072_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5720",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013099",
+    "externalid": "UM_1013099_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013099",
+    "externalid": "UM_1013099_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1013099",
+    "externalid": "UM_1013099_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013099",
+    "externalid": "UM_1013099_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2560",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013757",
+    "externalid": "UM_1013757_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013757",
+    "externalid": "UM_1013757_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1013757",
+    "externalid": "UM_1013757_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "21",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013757",
+    "externalid": "UM_1013757_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "8568",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013998",
+    "externalid": "UM_1013998_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1013998",
+    "externalid": "UM_1013998_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "17472",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013998",
+    "externalid": "UM_1013998_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1013998",
+    "externalid": "UM_1013998_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014047",
+    "externalid": "UM_1014047_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014047",
+    "externalid": "UM_1014047_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014047",
+    "externalid": "UM_1014047_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1404",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014047",
+    "externalid": "UM_1014047_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014048",
+    "externalid": "UM_1014048_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014048",
+    "externalid": "UM_1014048_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014048",
+    "externalid": "UM_1014048_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014048",
+    "externalid": "UM_1014048_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014230",
+    "externalid": "UM_1014230_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014230",
+    "externalid": "UM_1014230_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014230",
+    "externalid": "UM_1014230_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014230",
+    "externalid": "UM_1014230_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "74880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014504",
+    "externalid": "UM_1014504_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014504",
+    "externalid": "UM_1014504_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014504",
+    "externalid": "UM_1014504_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014504",
+    "externalid": "UM_1014504_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2250",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014508",
+    "externalid": "UM_1014508_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014508",
+    "externalid": "UM_1014508_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014508",
+    "externalid": "UM_1014508_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014508",
+    "externalid": "UM_1014508_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2250",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014509",
+    "externalid": "UM_1014509_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014509",
+    "externalid": "UM_1014509_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014509",
+    "externalid": "UM_1014509_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014509",
+    "externalid": "UM_1014509_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2250",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014731",
+    "externalid": "UM_1014731_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014731",
+    "externalid": "UM_1014731_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014731",
+    "externalid": "UM_1014731_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014731",
+    "externalid": "UM_1014731_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014790",
+    "externalid": "UM_1014790_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014790",
+    "externalid": "UM_1014790_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014790",
+    "externalid": "UM_1014790_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014790",
+    "externalid": "UM_1014790_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "576",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014820",
+    "externalid": "UM_1014820_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014820",
+    "externalid": "UM_1014820_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014820",
+    "externalid": "UM_1014820_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "216",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014820",
+    "externalid": "UM_1014820_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014873",
+    "externalid": "UM_1014873_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014873",
+    "externalid": "UM_1014873_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014873",
+    "externalid": "UM_1014873_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014873",
+    "externalid": "UM_1014873_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014888",
+    "externalid": "UM_1014888_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014888",
+    "externalid": "UM_1014888_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014888",
+    "externalid": "UM_1014888_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1512",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014888",
+    "externalid": "UM_1014888_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014891",
+    "externalid": "UM_1014891_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014891",
+    "externalid": "UM_1014891_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014891",
+    "externalid": "UM_1014891_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014891",
+    "externalid": "UM_1014891_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4224",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014900",
+    "externalid": "UM_1014900_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014900",
+    "externalid": "UM_1014900_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014900",
+    "externalid": "UM_1014900_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1248",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014900",
+    "externalid": "UM_1014900_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014983",
+    "externalid": "UM_1014983_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1014983",
+    "externalid": "UM_1014983_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014983",
+    "externalid": "UM_1014983_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1014983",
+    "externalid": "UM_1014983_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4488",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015017",
+    "externalid": "UM_1015017_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015017",
+    "externalid": "UM_1015017_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015017",
+    "externalid": "UM_1015017_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015017",
+    "externalid": "UM_1015017_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "14976",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015021",
+    "externalid": "UM_1015021_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015021",
+    "externalid": "UM_1015021_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015021",
+    "externalid": "UM_1015021_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "100",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015021",
+    "externalid": "UM_1015021_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12000",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015022",
+    "externalid": "UM_1015022_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015022",
+    "externalid": "UM_1015022_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015022",
+    "externalid": "UM_1015022_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "100",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015022",
+    "externalid": "UM_1015022_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12000",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015023",
+    "externalid": "UM_1015023_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015023",
+    "externalid": "UM_1015023_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015023",
+    "externalid": "UM_1015023_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1920",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015023",
+    "externalid": "UM_1015023_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015042",
+    "externalid": "UM_1015042_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015042",
+    "externalid": "UM_1015042_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015042",
+    "externalid": "UM_1015042_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015042",
+    "externalid": "UM_1015042_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015043",
+    "externalid": "UM_1015043_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015043",
+    "externalid": "UM_1015043_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015043",
+    "externalid": "UM_1015043_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015043",
+    "externalid": "UM_1015043_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015044",
+    "externalid": "UM_1015044_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015044",
+    "externalid": "UM_1015044_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015044",
+    "externalid": "UM_1015044_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015044",
+    "externalid": "UM_1015044_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015052",
+    "externalid": "UM_1015052_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015052",
+    "externalid": "UM_1015052_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015052",
+    "externalid": "UM_1015052_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015052",
+    "externalid": "UM_1015052_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "74880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015073",
+    "externalid": "UM_1015073_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015073",
+    "externalid": "UM_1015073_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "13824",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015073",
+    "externalid": "UM_1015073_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015073",
+    "externalid": "UM_1015073_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "216",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015177",
+    "externalid": "UM_1015177_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015177",
+    "externalid": "UM_1015177_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015177",
+    "externalid": "UM_1015177_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "100",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015177",
+    "externalid": "UM_1015177_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12000",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015197",
+    "externalid": "UM_1015197_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015197",
+    "externalid": "UM_1015197_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11232",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015197",
+    "externalid": "UM_1015197_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "48",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015197",
+    "externalid": "UM_1015197_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015225",
+    "externalid": "UM_1015225_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015225",
+    "externalid": "UM_1015225_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11232",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015225",
+    "externalid": "UM_1015225_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "48",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015225",
+    "externalid": "UM_1015225_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIs",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015242",
+    "externalid": "UM_1015242_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015242",
+    "externalid": "UM_1015242_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015242",
+    "externalid": "UM_1015242_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3456",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015242",
+    "externalid": "UM_1015242_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015258",
+    "externalid": "UM_1015258_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015258",
+    "externalid": "UM_1015258_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "15552",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015258",
+    "externalid": "UM_1015258_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015258",
+    "externalid": "UM_1015258_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015259",
+    "externalid": "UM_1015259_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015259",
+    "externalid": "UM_1015259_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "15552",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015259",
+    "externalid": "UM_1015259_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015259",
+    "externalid": "UM_1015259_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015266",
+    "externalid": "UM_1015266_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015266",
+    "externalid": "UM_1015266_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015266",
+    "externalid": "UM_1015266_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015266",
+    "externalid": "UM_1015266_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3168",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015267",
+    "externalid": "UM_1015267_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015267",
+    "externalid": "UM_1015267_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015267",
+    "externalid": "UM_1015267_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015267",
+    "externalid": "UM_1015267_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3168",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015269",
+    "externalid": "UM_1015269_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015269",
+    "externalid": "UM_1015269_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015269",
+    "externalid": "UM_1015269_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015269",
+    "externalid": "UM_1015269_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3168",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015270",
+    "externalid": "UM_1015270_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015270",
+    "externalid": "UM_1015270_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015270",
+    "externalid": "UM_1015270_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015270",
+    "externalid": "UM_1015270_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3168",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015274",
+    "externalid": "UM_1015274_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015274",
+    "externalid": "UM_1015274_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015274",
+    "externalid": "UM_1015274_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "21",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015274",
+    "externalid": "UM_1015274_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "8568",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015292",
+    "externalid": "UM_1015292_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015292",
+    "externalid": "UM_1015292_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015292",
+    "externalid": "UM_1015292_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015292",
+    "externalid": "UM_1015292_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015320",
+    "externalid": "UM_1015320_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015320",
+    "externalid": "UM_1015320_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015320",
+    "externalid": "UM_1015320_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015320",
+    "externalid": "UM_1015320_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015328",
+    "externalid": "UM_1015328_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015328",
+    "externalid": "UM_1015328_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015328",
+    "externalid": "UM_1015328_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015328",
+    "externalid": "UM_1015328_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015329",
+    "externalid": "UM_1015329_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015329",
+    "externalid": "UM_1015329_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015329",
+    "externalid": "UM_1015329_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015329",
+    "externalid": "UM_1015329_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015331",
+    "externalid": "UM_1015331_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015331",
+    "externalid": "UM_1015331_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015331",
+    "externalid": "UM_1015331_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015331",
+    "externalid": "UM_1015331_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015332",
+    "externalid": "UM_1015332_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015332",
+    "externalid": "UM_1015332_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015332",
+    "externalid": "UM_1015332_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015332",
+    "externalid": "UM_1015332_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015333",
+    "externalid": "UM_1015333_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015333",
+    "externalid": "UM_1015333_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015333",
+    "externalid": "UM_1015333_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015333",
+    "externalid": "UM_1015333_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "72",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015334",
+    "externalid": "UM_1015334_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015334",
+    "externalid": "UM_1015334_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015334",
+    "externalid": "UM_1015334_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1512",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015334",
+    "externalid": "UM_1015334_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015342",
+    "externalid": "UM_1015342_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015342",
+    "externalid": "UM_1015342_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015342",
+    "externalid": "UM_1015342_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015342",
+    "externalid": "UM_1015342_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "840",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015343",
+    "externalid": "UM_1015343_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015343",
+    "externalid": "UM_1015343_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015343",
+    "externalid": "UM_1015343_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015343",
+    "externalid": "UM_1015343_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4680",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015344",
+    "externalid": "UM_1015344_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015344",
+    "externalid": "UM_1015344_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015344",
+    "externalid": "UM_1015344_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015344",
+    "externalid": "UM_1015344_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4680",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015345",
+    "externalid": "UM_1015345_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015345",
+    "externalid": "UM_1015345_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015345",
+    "externalid": "UM_1015345_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015345",
+    "externalid": "UM_1015345_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4680",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015346",
+    "externalid": "UM_1015346_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015346",
+    "externalid": "UM_1015346_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015346",
+    "externalid": "UM_1015346_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015346",
+    "externalid": "UM_1015346_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4680",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015347",
+    "externalid": "UM_1015347_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015347",
+    "externalid": "UM_1015347_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015347",
+    "externalid": "UM_1015347_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015347",
+    "externalid": "UM_1015347_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7020",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015348",
+    "externalid": "UM_1015348_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015348",
+    "externalid": "UM_1015348_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015348",
+    "externalid": "UM_1015348_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015348",
+    "externalid": "UM_1015348_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7020",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015349",
+    "externalid": "UM_1015349_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015349",
+    "externalid": "UM_1015349_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015349",
+    "externalid": "UM_1015349_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015349",
+    "externalid": "UM_1015349_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7020",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015350",
+    "externalid": "UM_1015350_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015350",
+    "externalid": "UM_1015350_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015350",
+    "externalid": "UM_1015350_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015350",
+    "externalid": "UM_1015350_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7020",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015355",
+    "externalid": "UM_1015355_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015355",
+    "externalid": "UM_1015355_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015355",
+    "externalid": "UM_1015355_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015355",
+    "externalid": "UM_1015355_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "6084",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015356",
+    "externalid": "UM_1015356_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015356",
+    "externalid": "UM_1015356_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015356",
+    "externalid": "UM_1015356_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015356",
+    "externalid": "UM_1015356_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "6084",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015365",
+    "externalid": "UM_1015365_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015365",
+    "externalid": "UM_1015365_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015365",
+    "externalid": "UM_1015365_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015365",
+    "externalid": "UM_1015365_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1050",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015367",
+    "externalid": "UM_1015367_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015367",
+    "externalid": "UM_1015367_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015367",
+    "externalid": "UM_1015367_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015367",
+    "externalid": "UM_1015367_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "37440",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015368",
+    "externalid": "UM_1015368_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015368",
+    "externalid": "UM_1015368_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015368",
+    "externalid": "UM_1015368_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015368",
+    "externalid": "UM_1015368_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "37440",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015382",
+    "externalid": "UM_1015382_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015382",
+    "externalid": "UM_1015382_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015382",
+    "externalid": "UM_1015382_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "52416",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015382",
+    "externalid": "UM_1015382_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "576",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015383",
+    "externalid": "UM_1015383_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015383",
+    "externalid": "UM_1015383_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015383",
+    "externalid": "UM_1015383_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "100",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015383",
+    "externalid": "UM_1015383_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12000",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015385",
+    "externalid": "UM_1015385_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015385",
+    "externalid": "UM_1015385_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015385",
+    "externalid": "UM_1015385_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015385",
+    "externalid": "UM_1015385_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1872",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015388",
+    "externalid": "UM_1015388_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015388",
+    "externalid": "UM_1015388_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015388",
+    "externalid": "UM_1015388_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015388",
+    "externalid": "UM_1015388_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015391",
+    "externalid": "UM_1015391_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015391",
+    "externalid": "UM_1015391_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015391",
+    "externalid": "UM_1015391_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "46",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015391",
+    "externalid": "UM_1015391_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4784",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015392",
+    "externalid": "UM_1015392_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015392",
+    "externalid": "UM_1015392_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11520",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015392",
+    "externalid": "UM_1015392_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015392",
+    "externalid": "UM_1015392_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "96",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015393",
+    "externalid": "UM_1015393_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015393",
+    "externalid": "UM_1015393_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015393",
+    "externalid": "UM_1015393_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015393",
+    "externalid": "UM_1015393_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "8712",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015394",
+    "externalid": "UM_1015394_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015394",
+    "externalid": "UM_1015394_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11200",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015394",
+    "externalid": "UM_1015394_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015394",
+    "externalid": "UM_1015394_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015395",
+    "externalid": "UM_1015395_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015395",
+    "externalid": "UM_1015395_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015395",
+    "externalid": "UM_1015395_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015395",
+    "externalid": "UM_1015395_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5040",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015396",
+    "externalid": "UM_1015396_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015396",
+    "externalid": "UM_1015396_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11200",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015396",
+    "externalid": "UM_1015396_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015396",
+    "externalid": "UM_1015396_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015397",
+    "externalid": "UM_1015397_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015397",
+    "externalid": "UM_1015397_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015397",
+    "externalid": "UM_1015397_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015397",
+    "externalid": "UM_1015397_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5040",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015398",
+    "externalid": "UM_1015398_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015398",
+    "externalid": "UM_1015398_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "10080",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015398",
+    "externalid": "UM_1015398_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015398",
+    "externalid": "UM_1015398_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015399",
+    "externalid": "UM_1015399_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015399",
+    "externalid": "UM_1015399_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015399",
+    "externalid": "UM_1015399_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015399",
+    "externalid": "UM_1015399_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015400",
+    "externalid": "UM_1015400_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015400",
+    "externalid": "UM_1015400_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "11200",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015400",
+    "externalid": "UM_1015400_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015400",
+    "externalid": "UM_1015400_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015401",
+    "externalid": "UM_1015401_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015401",
+    "externalid": "UM_1015401_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015401",
+    "externalid": "UM_1015401_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015401",
+    "externalid": "UM_1015401_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5040",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015402",
+    "externalid": "UM_1015402_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015402",
+    "externalid": "UM_1015402_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015402",
+    "externalid": "UM_1015402_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1080",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015402",
+    "externalid": "UM_1015402_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015403",
+    "externalid": "UM_1015403_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015403",
+    "externalid": "UM_1015403_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015403",
+    "externalid": "UM_1015403_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1080",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015403",
+    "externalid": "UM_1015403_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015407",
+    "externalid": "UM_1015407_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015407",
+    "externalid": "UM_1015407_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12672",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015407",
+    "externalid": "UM_1015407_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015407",
+    "externalid": "UM_1015407_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015408",
+    "externalid": "UM_1015408_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015408",
+    "externalid": "UM_1015408_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015408",
+    "externalid": "UM_1015408_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "40",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015408",
+    "externalid": "UM_1015408_PL",
+    "name": "Palets",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015409",
+    "externalid": "UM_1015409_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015409",
+    "externalid": "UM_1015409_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12672",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015409",
+    "externalid": "UM_1015409_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015409",
+    "externalid": "UM_1015409_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015410",
+    "externalid": "UM_1015410_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015410",
+    "externalid": "UM_1015410_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015410",
+    "externalid": "UM_1015410_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "40",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015410",
+    "externalid": "UM_1015410_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015411",
+    "externalid": "UM_1015411_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015411",
+    "externalid": "UM_1015411_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12672",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015411",
+    "externalid": "UM_1015411_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015411",
+    "externalid": "UM_1015411_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015412",
+    "externalid": "UM_1015412_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015412",
+    "externalid": "UM_1015412_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015412",
+    "externalid": "UM_1015412_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "40",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015412",
+    "externalid": "UM_1015412_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015413",
+    "externalid": "UM_1015413_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015413",
+    "externalid": "UM_1015413_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015413",
+    "externalid": "UM_1015413_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "17920",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015413",
+    "externalid": "UM_1015413_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015417",
+    "externalid": "UM_1015417_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015417",
+    "externalid": "UM_1015417_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "20160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015417",
+    "externalid": "UM_1015417_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015417",
+    "externalid": "UM_1015417_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "288",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015421",
+    "externalid": "UM_1015421_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015421",
+    "externalid": "UM_1015421_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015421",
+    "externalid": "UM_1015421_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015421",
+    "externalid": "UM_1015421_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015422",
+    "externalid": "UM_1015422_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015422",
+    "externalid": "UM_1015422_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015422",
+    "externalid": "UM_1015422_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015422",
+    "externalid": "UM_1015422_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015423",
+    "externalid": "UM_1015423_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015423",
+    "externalid": "UM_1015423_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015423",
+    "externalid": "UM_1015423_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015423",
+    "externalid": "UM_1015423_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015424",
+    "externalid": "UM_1015424_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015424",
+    "externalid": "UM_1015424_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015424",
+    "externalid": "UM_1015424_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015424",
+    "externalid": "UM_1015424_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5040",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015425",
+    "externalid": "UM_1015425_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015425",
+    "externalid": "UM_1015425_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015425",
+    "externalid": "UM_1015425_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015425",
+    "externalid": "UM_1015425_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5040",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015426",
+    "externalid": "UM_1015426_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015426",
+    "externalid": "UM_1015426_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015426",
+    "externalid": "UM_1015426_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015426",
+    "externalid": "UM_1015426_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4536",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015430",
+    "externalid": "UM_1015430_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015430",
+    "externalid": "UM_1015430_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015430",
+    "externalid": "UM_1015430_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015430",
+    "externalid": "UM_1015430_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "936",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015431",
+    "externalid": "UM_1015431_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015431",
+    "externalid": "UM_1015431_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015431",
+    "externalid": "UM_1015431_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015431",
+    "externalid": "UM_1015431_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1344",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015432",
+    "externalid": "UM_1015432_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015432",
+    "externalid": "UM_1015432_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015432",
+    "externalid": "UM_1015432_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1092",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015432",
+    "externalid": "UM_1015432_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015437",
+    "externalid": "UM_1015437_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015437",
+    "externalid": "UM_1015437_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "25",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015437",
+    "externalid": "UM_1015437_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015437",
+    "externalid": "UM_1015437_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "93600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015438",
+    "externalid": "UM_1015438_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015438",
+    "externalid": "UM_1015438_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "30",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015438",
+    "externalid": "UM_1015438_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015438",
+    "externalid": "UM_1015438_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "93600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015439",
+    "externalid": "UM_1015439_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015439",
+    "externalid": "UM_1015439_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015439",
+    "externalid": "UM_1015439_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015439",
+    "externalid": "UM_1015439_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "74880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015444",
+    "externalid": "UM_1015444_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015444",
+    "externalid": "UM_1015444_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015444",
+    "externalid": "UM_1015444_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "27",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015444",
+    "externalid": "UM_1015444_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5832",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015453",
+    "externalid": "UM_1015453_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015453",
+    "externalid": "UM_1015453_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "6720",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015453",
+    "externalid": "UM_1015453_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015453",
+    "externalid": "UM_1015453_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "96",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015455",
+    "externalid": "UM_1015455_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015455",
+    "externalid": "UM_1015455_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015455",
+    "externalid": "UM_1015455_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015455",
+    "externalid": "UM_1015455_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "14976",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015456",
+    "externalid": "UM_1015456_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015456",
+    "externalid": "UM_1015456_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015456",
+    "externalid": "UM_1015456_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015456",
+    "externalid": "UM_1015456_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "14976",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015458",
+    "externalid": "UM_1015458_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015458",
+    "externalid": "UM_1015458_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015458",
+    "externalid": "UM_1015458_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015458",
+    "externalid": "UM_1015458_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2688",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015461",
+    "externalid": "UM_1015461_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015461",
+    "externalid": "UM_1015461_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015461",
+    "externalid": "UM_1015461_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "30",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015461",
+    "externalid": "UM_1015461_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "8400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015464",
+    "externalid": "UM_1015464_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015464",
+    "externalid": "UM_1015464_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015464",
+    "externalid": "UM_1015464_BU_NOUSAR",
+    "name": "Bulto_nousar",
+    "pluralName": "Bultos",
+    "abv": "BU_NOUSAR",
+    "pluralAbv": "BUS_NOUSAR",
+    "tasa": "4",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015464",
+    "externalid": "UM_1015464_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "64",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015464",
+    "externalid": "UM_1015464_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "9216",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015466",
+    "externalid": "UM_1015466_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015466",
+    "externalid": "UM_1015466_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015466",
+    "externalid": "UM_1015466_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "40",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015466",
+    "externalid": "UM_1015466_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4200",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015467",
+    "externalid": "UM_1015467_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015467",
+    "externalid": "UM_1015467_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015467",
+    "externalid": "UM_1015467_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015467",
+    "externalid": "UM_1015467_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5760",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015468",
+    "externalid": "UM_1015468_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015468",
+    "externalid": "UM_1015468_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015468",
+    "externalid": "UM_1015468_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015468",
+    "externalid": "UM_1015468_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5760",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015469",
+    "externalid": "UM_1015469_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015469",
+    "externalid": "UM_1015469_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015469",
+    "externalid": "UM_1015469_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015469",
+    "externalid": "UM_1015469_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5760",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015470",
+    "externalid": "UM_1015470_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015470",
+    "externalid": "UM_1015470_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015470",
+    "externalid": "UM_1015470_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015470",
+    "externalid": "UM_1015470_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5760",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015471",
+    "externalid": "UM_1015471_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015471",
+    "externalid": "UM_1015471_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "18",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015471",
+    "externalid": "UM_1015471_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015471",
+    "externalid": "UM_1015471_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5760",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015478",
+    "externalid": "UM_1015478_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015478",
+    "externalid": "UM_1015478_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "14560",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015478",
+    "externalid": "UM_1015478_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015478",
+    "externalid": "UM_1015478_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015481",
+    "externalid": "UM_1015481_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015481",
+    "externalid": "UM_1015481_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015481",
+    "externalid": "UM_1015481_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "288",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015481",
+    "externalid": "UM_1015481_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015483",
+    "externalid": "UM_1015483_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015483",
+    "externalid": "UM_1015483_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015483",
+    "externalid": "UM_1015483_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1024",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015483",
+    "externalid": "UM_1015483_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "8",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015485",
+    "externalid": "UM_1015485_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015485",
+    "externalid": "UM_1015485_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015485",
+    "externalid": "UM_1015485_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015485",
+    "externalid": "UM_1015485_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "960",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015486",
+    "externalid": "UM_1015486_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015486",
+    "externalid": "UM_1015486_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015486",
+    "externalid": "UM_1015486_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015486",
+    "externalid": "UM_1015486_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015489",
+    "externalid": "UM_1015489_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015489",
+    "externalid": "UM_1015489_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015489",
+    "externalid": "UM_1015489_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "21",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015489",
+    "externalid": "UM_1015489_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7497",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015491",
+    "externalid": "UM_1015491_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015491",
+    "externalid": "UM_1015491_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015491",
+    "externalid": "UM_1015491_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "21",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015491",
+    "externalid": "UM_1015491_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "7056",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015500",
+    "externalid": "UM_1015500_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015500",
+    "externalid": "UM_1015500_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015500",
+    "externalid": "UM_1015500_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3780",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015500",
+    "externalid": "UM_1015500_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "42",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015502",
+    "externalid": "UM_1015502_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015502",
+    "externalid": "UM_1015502_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015502",
+    "externalid": "UM_1015502_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3780",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015502",
+    "externalid": "UM_1015502_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "42",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015503",
+    "externalid": "UM_1015503_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015503",
+    "externalid": "UM_1015503_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015503",
+    "externalid": "UM_1015503_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1512",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015503",
+    "externalid": "UM_1015503_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015504",
+    "externalid": "UM_1015504_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015504",
+    "externalid": "UM_1015504_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015504",
+    "externalid": "UM_1015504_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "46",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015504",
+    "externalid": "UM_1015504_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4784",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015506",
+    "externalid": "UM_1015506_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015506",
+    "externalid": "UM_1015506_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015506",
+    "externalid": "UM_1015506_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "36",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015506",
+    "externalid": "UM_1015506_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "4968",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015508",
+    "externalid": "UM_1015508_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015508",
+    "externalid": "UM_1015508_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015508",
+    "externalid": "UM_1015508_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "30",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015508",
+    "externalid": "UM_1015508_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "8400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015509",
+    "externalid": "UM_1015509_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015509",
+    "externalid": "UM_1015509_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015509",
+    "externalid": "UM_1015509_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1404",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015509",
+    "externalid": "UM_1015509_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015511",
+    "externalid": "UM_1015511_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015511",
+    "externalid": "UM_1015511_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015511",
+    "externalid": "UM_1015511_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "192",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015511",
+    "externalid": "UM_1015511_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "21888",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015512",
+    "externalid": "UM_1015512_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015512",
+    "externalid": "UM_1015512_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015512",
+    "externalid": "UM_1015512_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015512",
+    "externalid": "UM_1015512_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "3168",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015516",
+    "externalid": "UM_1015516_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015516",
+    "externalid": "UM_1015516_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "10",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015516",
+    "externalid": "UM_1015516_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015516",
+    "externalid": "UM_1015516_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015517",
+    "externalid": "UM_1015517_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015517",
+    "externalid": "UM_1015517_UN",
+    "name": "Unidades",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015517",
+    "externalid": "UM_1015517_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "190",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015517",
+    "externalid": "UM_1015517_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "6",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015518",
+    "externalid": "UM_1015518_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015518",
+    "externalid": "UM_1015518_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015518",
+    "externalid": "UM_1015518_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "320",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015518",
+    "externalid": "UM_1015518_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "66880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015519",
+    "externalid": "UM_1015519_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015519",
+    "externalid": "UM_1015519_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015519",
+    "externalid": "UM_1015519_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "320",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015519",
+    "externalid": "UM_1015519_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "66880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015520",
+    "externalid": "UM_1015520_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015520",
+    "externalid": "UM_1015520_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015520",
+    "externalid": "UM_1015520_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "320",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015520",
+    "externalid": "UM_1015520_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "66880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015521",
+    "externalid": "UM_1015521_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015521",
+    "externalid": "UM_1015521_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015521",
+    "externalid": "UM_1015521_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "320",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015521",
+    "externalid": "UM_1015521_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "66880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015522",
+    "externalid": "UM_1015522_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015522",
+    "externalid": "UM_1015522_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "16",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015522",
+    "externalid": "UM_1015522_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "320",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015522",
+    "externalid": "UM_1015522_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "66880",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015524",
+    "externalid": "UM_1015524_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015524",
+    "externalid": "UM_1015524_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "25200",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015524",
+    "externalid": "UM_1015524_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "30",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015524",
+    "externalid": "UM_1015524_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "360",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015527",
+    "externalid": "UM_1015527_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015527",
+    "externalid": "UM_1015527_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015527",
+    "externalid": "UM_1015527_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015527",
+    "externalid": "UM_1015527_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "60",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015528",
+    "externalid": "UM_1015528_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015528",
+    "externalid": "UM_1015528_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015528",
+    "externalid": "UM_1015528_BU",
+    "name": "Bulto (no usar)",
+    "pluralName": "Bultos (no usar)",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "160",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015528",
+    "externalid": "UM_1015528_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015528",
+    "externalid": "UM_1015528_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "60",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015530",
+    "externalid": "UM_1015530_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015530",
+    "externalid": "UM_1015530_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015530",
+    "externalid": "UM_1015530_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12600",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015530",
+    "externalid": "UM_1015530_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "20",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015532",
+    "externalid": "UM_1015532_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015532",
+    "externalid": "UM_1015532_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015532",
+    "externalid": "UM_1015532_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "5400",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015532",
+    "externalid": "UM_1015532_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "60",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015535",
+    "externalid": "UM_1015535_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015535",
+    "externalid": "UM_1015535_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015535",
+    "externalid": "UM_1015535_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "15",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015535",
+    "externalid": "UM_1015535_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "2250",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015539",
+    "externalid": "UM_1015539_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015539",
+    "externalid": "UM_1015539_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015539",
+    "externalid": "UM_1015539_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "120",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015539",
+    "externalid": "UM_1015539_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "12480",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015544",
+    "externalid": "UM_1015544_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015544",
+    "externalid": "UM_1015544_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "12",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015544",
+    "externalid": "UM_1015544_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "144",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015544",
+    "externalid": "UM_1015544_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PL",
+    "tasa": "2080",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015549",
+    "externalid": "UM_1015549_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015549",
+    "externalid": "UM_1015549_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015549",
+    "externalid": "UM_1015549_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "24",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015549",
+    "externalid": "UM_1015549_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "9000",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015592",
+    "externalid": "UM_1015592_UN",
+    "name": "Unidad",
+    "pluralName": "Unidades",
+    "abv": "UN",
+    "pluralAbv": "UNS",
+    "tasa": "1",
+    "unitBase": "T"
+  },
+  {
+    "nameType": "UM_1015592",
+    "externalid": "UM_1015592_DI",
+    "name": "Display",
+    "pluralName": "Displays",
+    "abv": "DI",
+    "pluralAbv": "DIS",
+    "tasa": "1",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015592",
+    "externalid": "UM_1015592_PL",
+    "name": "Palet",
+    "pluralName": "Palets",
+    "abv": "PL",
+    "pluralAbv": "PLS",
+    "tasa": "1008",
+    "unitBase": "F"
+  },
+  {
+    "nameType": "UM_1015592",
+    "externalid": "UM_1015592_BU",
+    "name": "Bulto",
+    "pluralName": "Bultos",
+    "abv": "BU",
+    "pluralAbv": "BUS",
+    "tasa": "12",
+    "unitBase": "F"
+  }
+]
