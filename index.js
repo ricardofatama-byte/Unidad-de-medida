@@ -40,23 +40,8 @@ async function enviarMasivo() {
             obj[element.nameType].uom.items.push(temp);
         }
     }
-    // console.log("Unidades agrupadas por tipo:", Object.keys(obj).length);
-    // console.log("el primer valor", obj["UM_1002580"])
-    // console.log("el primer valor", obj["UM_1002580"].uom)
-    // delete obj["UM_1002580"]
-
-    // console.log("Unidades agrupadas por tipo después de eliminar UM_1015423:", Object.keys(obj));
-    // console.log("esto es lo que se viene ", obj["UM_1015423"])
-    // console.log("OBJ:", obj);
-    // let  valores = Object.values(obj);
     let  valores = Object.values(obj);
 
-    // try {
-    //     const r = await netsuiteRequest(obj["UM_1013073"]);
-    //     console.log("OK:", r.id);
-    // } catch (error) {
-    //     console.error("Error:", error.message);
-    // }
 
     for (let i = 0; i < valores.length; i++) {
         const unidad = valores[i];
